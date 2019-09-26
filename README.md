@@ -4,7 +4,9 @@
 3. 当此文件夹下有文件更新(包括新增，删除，修改，重命名)，在运行python文件管理系统后，可以识别出来并且更新到excel中。
 
 t1文件夹是一个测试对象。
+FileManagementV1.py是脚本文件。
+AppleCai的文件管理系统.xls是生成的文件记录。
 
-对应我的技术blog：
-https://www.jianshu.com/u/973c8c406de7ea
+详细内容参考我的技术blog：
+https://www.jianshu.com/p/051f87bde6bd
 
